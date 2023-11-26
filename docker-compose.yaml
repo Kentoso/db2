@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  postgres:
+    container_name: postgres_summary_app
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: notacopyofheadway
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+
+  mongodb:
+    container_name: mongodb_summary_app
+    image: mongo
+    volumes:
+      - ./mongodb:/data/db
+    ports:
+      - "27017:27017"

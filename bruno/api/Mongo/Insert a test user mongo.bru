@@ -1,0 +1,17 @@
+meta {
+  name: Insert a test user mongo
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{BASE_URL}}/test/mongo/users/insert
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "count" : 1000
+  }
+}
