@@ -1,0 +1,10 @@
+INSERT INTO public.authors (id, name, biography) VALUES (1, 'Jane Doe', 'An acclaimed author known for dystopian themes.');
+INSERT INTO public.authors (id, name, biography) VALUES (2, 'John Smith', 'Bestselling author of adventure novels.');
+INSERT INTO public.authors (id, name, biography) VALUES (3, 'Emily Johnson', 'Historian and writer with a passion for Victorian history.');
+INSERT INTO public.authors (id, name, biography) VALUES (4, 'Michael Brown', 'A master of psychological thrillers and suspense.');
+INSERT INTO public.authors (id, name, biography) VALUES (5, 'Sarah Wilson', 'Writes time-travel stories blending science fiction with romance.');
+INSERT INTO public.authors (id, name, biography) VALUES (6, 'William Green', 'A fantasy and political drama novelist.');
+INSERT INTO public.authors (id, name, biography) VALUES (7, 'Laura Martinez', 'Author of war stories and tales of resilience.');
+INSERT INTO public.authors (id, name, biography) VALUES (8, 'David Garcia', 'A magical realism author who brings gardens to life.');
+INSERT INTO public.authors (id, name, biography) VALUES (9, 'Linda White', 'Marine biologist turned novelist, writing about the sea.');
+INSERT INTO public.authors (id, name, biography) VALUES (10, 'Richard Lee', 'Science fiction author exploring the cosmos.');

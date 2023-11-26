@@ -1,0 +1,10 @@
+INSERT INTO public.genres (id, name) VALUES (1, 'Dystopian');
+INSERT INTO public.genres (id, name) VALUES (2, 'Adventure');
+INSERT INTO public.genres (id, name) VALUES (3, 'Historical Fiction');
+INSERT INTO public.genres (id, name) VALUES (4, 'Thriller');
+INSERT INTO public.genres (id, name) VALUES (5, 'Science Fiction');
+INSERT INTO public.genres (id, name) VALUES (6, 'Fantasy');
+INSERT INTO public.genres (id, name) VALUES (7, 'War');
+INSERT INTO public.genres (id, name) VALUES (8, 'Magical Realism');
+INSERT INTO public.genres (id, name) VALUES (9, 'Marine Adventure');
+INSERT INTO public.genres (id, name) VALUES (10, 'Space Opera');
